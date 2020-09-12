@@ -1,0 +1,1 @@
+FROM --platform=linux/amd64 k8s.gcr.io/coredns:1.7.0

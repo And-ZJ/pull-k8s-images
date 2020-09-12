@@ -1,0 +1,1 @@
+FROM --platform=linux/amd64 k8s.gcr.io/kube-proxy:v1.19.0
